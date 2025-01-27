@@ -115,7 +115,7 @@ img {
 }
 </style>
 <br/><br/><h1 class="my-block">Hello, My Name Is Erica,<br/><br/>I Hope Your Day Is Filled<br/><br/>With Peace and Mindfulness!<br/><br/>
-<img src="https://i.ibb.co/hyJqGMg/FB-IMG-1737939373854.jpg" alt="FB-IMG-1737939373854" border="0"> height="405px" width="380px"/><br/><br/>If You Want To Know More<br/><br/>About Me, Please Feel Free<br/><br/>To Click My Linktree Below:<br/><br/><br/>
+<img src="https://i.ibb.co/hyJqGMg/FB-IMG-1737939373854.jpg" alt="FB-IMG-1737939373854" border="0" height="405px" width="380px"/><br/><br/>If You Want To Know More<br/><br/>About Me, Please Feel Free<br/><br/>To Click My Linktree Below:<br/><br/><br/>
 <button1 onclick="myFunction()"></button1>
 <a href="https://linktr.ee/creativespirit227";>
 <b><button style="text-align:center;vertical-align:middle;"><button class="button button1">My Linktree</button></b>
